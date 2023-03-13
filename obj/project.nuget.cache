@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aljLtGPJ5DgS8u4u4NYzdp7T7wYggDhK34ug+mItx2dGLf624WmBtXPCjeuz/oet/h99tkuMFomZyhaCRavfqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lfort\\OneDrive\\Área de Trabalho\\API REFIT\\ProjetoRefit\\ProjetoRefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lfort\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\lfort\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\lfort\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\lfort\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\lfort\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\lfort\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
